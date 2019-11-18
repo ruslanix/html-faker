@@ -10,3 +10,9 @@ npm install
 ```
 node faker.js -s 10 -p 50 > out.html
 ```
+
+## Generate pdf
+
+```
+node ./node_modules/pagedjs-cli/bin/paged out.html
+```

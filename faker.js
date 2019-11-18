@@ -45,7 +45,7 @@ function printHeadAndToc() {
       <title>
           Admin Guide
       </title>
-      <link rel="stylesheet" type="text/css" href="../../themes/deskpro/main.css">
+      <link rel="stylesheet" type="text/css" href="main.css">
   </head>
 
   <body>

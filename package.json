@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^4.0.1",
-    "faker": "^4.1.0"
+    "faker": "^4.1.0",
+    "pagedjs-cli": "0.0.9"
   }
 }
