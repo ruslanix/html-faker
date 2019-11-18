@@ -8,5 +8,5 @@ npm install
 ## Generate html with 10 sections 50 paragraphs each
 
 ```
-node faker.js -s 10 -p 50
+node faker.js -s 10 -p 50 > out.html
 ```
