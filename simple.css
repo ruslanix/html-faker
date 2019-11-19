@@ -1,0 +1,8 @@
+@media print {
+  @page {
+    size: 21cm 29.7cm;
+    margin-top: 45pt;
+    margin-bottom: 60pt;
+    padding: 0;
+  }
+}
